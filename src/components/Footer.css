@@ -1,0 +1,51 @@
+.footer {
+	text-align: center;
+}
+
+.social-icons {
+  margin-bottom: 10px;
+}
+
+.social-icon {
+  margin: 0 1rem;
+  transition: transform 250ms;
+  display: inline-block;
+}
+
+.social-icon:hover {
+  transform: translateY(-2px);
+}
+
+.youtube {
+  color: black;
+}
+
+.facebook {
+  color: black;
+}
+
+.twitter {
+  color: black;
+}
+
+.footer p {
+	margin-bottom: 15px;
+}
+
+.footer-credits a {
+  text-decoration: none;
+  color: #13F2F2;
+}
+
+.footer-credits a:hover {
+  border-bottom: 0.1px solid #13F2F2;
+}
+
+.heart {
+  color: pink;
+}
+
+.footer-credits p {
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,9 @@
+.cover {
+	text-align: center;
+	margin-bottom: 100px;
+}
+
+.cover h1 {
+	font-size: 3rem;
+	/*margin: 5px 200px*/
+}

@@ -1,0 +1,22 @@
+.header {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.title {
+	margin: 10px 30px;
+}
+
+.links {
+	margin: 25px 50px;
+}
+
+.links ul {
+	list-style-type: none;
+}
+
+.links li {
+	display: inline;
+	margin: 10px;
+}
