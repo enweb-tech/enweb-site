@@ -9,7 +9,7 @@ function Footer () {
 			
 			<div className="social-icons">
 
-				<a href="#"
+				{/*<a href="#"
 					className="social-icon youtube">
 					<FontAwesomeIcon icon={faYoutube} size="2x" />
 				</a> 
@@ -20,14 +20,14 @@ function Footer () {
 				<a href="#"
 					className="social-icon twitter">
 					<FontAwesomeIcon icon={faTwitter} size="2x" />
-				</a>
+				</a>*/}
 
 			</div>
 
 			<div className="footer-credits">
 				<p> Made with &nbsp;<div className="heart">&#10084;</div>&nbsp; by &nbsp; 
-					<a target="_blank" href="https://www.linkedin.com/in/karamveersidhu/"> 
-					Karamveer 
+					<a href="https://enweb.tech/"> 
+						Enweb 
 					</a>
 				</p>
 			</div>	
